@@ -1,0 +1,7 @@
+{
+  "utterance": "train time",
+  "intent_type": "RATPTimeTableIntent",
+  "intent": {
+    "BusTimeKeyword": "train time"
+  }
+}
